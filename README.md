@@ -1,16 +1,74 @@
-## Hi there 👋
+# 👋 你好，我是卡布奇诺的派对
 
-<!--
-**kabuqin/kabuqin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+一个专注于 **网络安全 / 技术研究 / 工程实践** 的开发者 & 内容创作者。
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 关于我
+
+- 🔐 方向：网络安全 / 渗透测试 / 漏洞研究
+- 🧠 兴趣：攻防技术、系统安全、自动化工具开发
+- ✍️ 输出：技术文章 + 实战案例 + 安全思考
+- 🎯 目标：持续做有价值的技术内容与工具
+
+---
+
+## 📚 我的内容体系
+
+我主要在两个平台同步输出内容：
+
+### 🧩 GitHub（这里）
+- 工具代码 / PoC / 实验项目
+- 安全研究记录
+- 自动化脚本 & 小工具合集
+
+👉 China
+
+---
+
+### 📖 微信公众号（核心内容）
+
+我会在公众号发布更完整的内容，包括：
+
+- 🔥 漏洞分析深度文章
+- 🧠 渗透测试思路拆解
+- 📊 安全事件复盘
+- 🛠️ 工具使用教程
+- 💡 行业思考 & 职业成长
+
+📌 关注公众号获取最新内容：
+
+<p align="center">
+  <img src="./assets/wechat_qr.png" width="220" />
+</p>
+
+👉 扫码关注：**卡布奇诺的派对**
+
+---
+
+## 🧪 代表项目
+
+| 项目 | 描述 | 状态 |
+|------|------|------|
+| recon-toolkit | 自动化信息收集工具 | 🟢 开发中 |
+| vuln-lab | 漏洞复现环境合集 | 🟡 维护中 |
+| payload-collection | 常用攻击 payload 整理 | 🟢 已完成 |
+
+---
+
+## 📡 联系我
+
+- GitHub：本页面
+<img width="430" height="430" alt="073e00d574b05ca4af5c332f1b458eaa" src="https://github.com/user-attachments/assets/f14f4eb7-f43e-4e99-bd0f-9c9c298001c7" />
+- 公众号：扫描上方二维码
+- csdn：[可补充（知乎 / CSDN / 语雀等）](https://blog.csdn.net/CSDNRomance?spm=1000.2115.3001.5343)
+
+---
+
+## 🧭 一句话介绍
+
+> 用工程思维做安全，用内容方式传播技术。
+
+---
+
+⭐ 如果这些内容对你有帮助，欢迎 Star 支持！
