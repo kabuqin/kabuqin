@@ -50,9 +50,9 @@
 
 | 项目 | 描述 | 状态 |
 |------|------|------|
-| recon-toolkit | 自动化信息收集工具 | 🟢 开发中 |
-| vuln-lab | 漏洞复现环境合集 | 🟡 维护中 |
-| payload-collection | 常用攻击 payload 整理 | 🟢 已完成 |
+| autovibe_pentest| 基于skills的自动化漏洞挖掘工具 | 🟢 维护中 |
+| VideoExtractor | 无水印视频提取工具 | 🟡 维护中 |
+| VulnAnalyzer | 自动化漏洞检测平台 | 🟢 已完成 |
 
 ---
 
