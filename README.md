@@ -24,8 +24,6 @@
 ## 📡 联系我
 
 - GitHub：本页面
-<img width="200" height="200" alt="073e00d574b05ca4af5c332f1b458eaa" src="https://github.com/user-attachments/assets/f14f4eb7-f43e-4e99-bd0f-9c9c298001c7" />
-- 公众号：扫描上方二维码
 - csdn：(https://blog.csdn.net/CSDNRomance?spm=1000.2115.3001.5343)
 
 ---
