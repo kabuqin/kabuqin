@@ -2,8 +2,6 @@
 
 一个专注于 **网络安全 / 技术研究** 的开发者 & 内容创作者。
 
----
-
 ## 🚀 关于我
 
 - 🔐 方向：网络安全 / 渗透测试 / 漏洞研究
@@ -19,14 +17,10 @@
 | VideoExtractor | 无水印视频提取工具 | 🟡 维护中 |
 | VulnAnalyzer | 自动化漏洞检测平台 | 🟢 已完成 |
 
----
-
 ## 📡 联系我
 
 - GitHub：本页面
 - csdn：(https://blog.csdn.net/CSDNRomance?spm=1000.2115.3001.5343)
 - blog：https://kabuqin.github.io/cappuccino.github.io/
-
----
 
 ⭐ 如果这些内容对你有帮助，欢迎 Star 支持！
