@@ -1,28 +1,42 @@
-# 👋 你好，我是卡布奇诺的派对
+# 👋 Hi, I'm Cappuccino / 你好，我是卡布奇诺
 
-一个专注于 **网络安全 / 技术研究** 的开发者 & 内容创作者。
+> **Security Engineer | 网络安全工程师**
+> 专注攻防技术、漏洞研究与自动化工具开发 · Focused on offensive security, vulnerability research & automation tooling
 
-## 🚀 关于我
+---
+
+## 🧑‍💻 关于我 / About Me
+
+**中文 / Chinese**
 
 - 🔐 方向：网络安全 / 渗透测试 / 漏洞研究
 - 🧠 兴趣：攻防技术、系统安全、自动化工具开发
 - ✍️ 输出：技术文章 + 实战案例 + 安全思考
 - 🎯 目标：持续做有价值的技术内容与工具
 
-## 🧪 代表项目
+**English**
 
-| 项目 | 描述 | 状态 |
-|------|------|------|
-| autovibe_pentest| 基于skills的自动化漏洞挖掘工具 | 🟢 维护中 |
-| VideoExtractor | 无水印视频提取工具 | 🟡 维护中 |
-| VulnAnalyzer | 自动化漏洞检测平台 | 🟢 已完成 |
+- 🔐 Focus: Cyber Security / Penetration Testing / Vulnerability Research
+- 🧠 Interests: Offense & Defense, System Security, Automation Tooling
+- ✍️ Output: Technical Articles + Real-world Cases + Security Insights
+- 🎯 Goal: Keep Building Valuable Security Content & Tools
 
-## 📡 联系我
+## 🧪 代表项目 / Featured Projects
 
-- GitHub：本页面
-- csdn：(https://blog.csdn.net/CSDNRomance?spm=1000.2115.3001.5343)
-- blog：https://kabuqin.github.io/cappuccino.github.io/
-  
-Email: cappuccino0616@163.com
+| 项目 Project | 描述 Description | 状态 Status |
+|---|---|---|
+| [autovibe_pentest](https://github.com/kabuqin/autovibe_pentest) | 基于 skills 的自动化漏洞挖掘工具 / Skill-based automated vulnerability hunting | 🟢 维护中 Maintaining |
+| [VideoExtractor](https://github.com/kabuqin/VideoExtractor) | 无水印视频提取工具 / Watermark-free video extractor | 🟡 维护中 Maintaining |
+| [VulnAnalyzer](https://github.com/kabuqin/VulnAnalyzer) | 自动化漏洞检测平台 / Automated vulnerability detection platform | 🟢 已完成 Done |
+
+## 📡 联系我 / Contact Me
+
+- GitHub: [kabuqin](https://github.com/kabuqin)
+- CSDN: [CSDNRomance](https://blog.csdn.net/CSDNRomance)
+- Blog: [cappuccino.github.io](https://kabuqin.github.io/cappuccino.github.io/)
+- Email: [cappuccino0616@163.com](mailto:cappuccino0616@163.com)
+
+---
 
 ⭐ 如果这些内容对你有帮助，欢迎 Star 支持！
+⭐ If you find this helpful, feel free to give a star!
