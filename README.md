@@ -16,8 +16,8 @@
 
 | Project | Description | Status |
 |---|---|---|
-| [autovibe_pentest](https://github.com/kabuqin/autovibe_pentest) | Skill-based automated vulnerability hunting | 🟢 Maintaining |
-| [VideoExtractor](https://github.com/kabuqin/VideoExtractor) | Watermark-free video extractor | 🟡 Maintaining |
+| [autovibe_pentest](https://github.com/kabuqin/autovibe_pentest) | Skill-based automated vulnerability hunting | 🟢 Done |
+| [VideoExtractor](https://github.com/kabuqin/VideoExtractor) | Watermark-free video extractor | 🟢 Done |
 | [VulnAnalyzer](https://github.com/kabuqin/VulnAnalyzer) | Automated vulnerability detection platform | 🟢 Done |
 | [SpiritEye](https://github.com/kabuqin/SpiritEye) | AI-powered static application security testing (SAST) for code analysis & security audit | 🟢 Done |
 
