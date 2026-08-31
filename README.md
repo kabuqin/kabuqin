@@ -28,6 +28,7 @@
 | [autovibe_pentest](https://github.com/kabuqin/autovibe_pentest) | 基于 skills 的自动化漏洞挖掘工具 / Skill-based automated vulnerability hunting | 🟢 维护中 Maintaining |
 | [VideoExtractor](https://github.com/kabuqin/VideoExtractor) | 无水印视频提取工具 / Watermark-free video extractor | 🟡 维护中 Maintaining |
 | [VulnAnalyzer](https://github.com/kabuqin/VulnAnalyzer) | 自动化漏洞检测平台 / Automated vulnerability detection platform | 🟢 已完成 Done |
+| [SpiritEye](https://github.com/kabuqin/SpiritEye) | AI 驱动的静态应用安全测试（SAST）工具，用于代码漏洞分析与安全审计 / AI-powered static application security testing (SAST) for code analysis & security audit | 🟢 已完成 Done |
 
 ## 📡 联系我 / Contact Me
 
